@@ -125,10 +125,13 @@ select s.customer_id ,sum(case
                 where s.order_date < j.last_date
                 group by s.customer_id
                 order by s.customer_id;
+
+
+/*-----------------------------------------------------------------
+     BONUS QUESTION  (TO GET INSIGHT BY JUST SEEING THE TABLE)
+------------------------------------------------------------------*/
 							
-                            
-				
--- customer_id	order_date	product_name	price	member
+                        
 
 select   s.customer_id , s.order_date, m.product_name , m.price,
 				case when s.order_date < ms.join_date then "N"
