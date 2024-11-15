@@ -49,6 +49,7 @@ Danny has shared with you 3 key datasets for this case study:
    their preference shifted to ramen. We should consider improving our sushi offerings or creating promotions to encourage members to purchase sushi along with ramen.
 
 ## Bonus questions are designed to help the owner and staff gain insights and references on how the work is progressing. [here](https://github.com/kohitkakde/Dannys-Dinner-SQL-/tree/main/Bonus%20Question).
+### Bonus codes [here](https://github.com/kohitkakde/Dannys-Dinner-SQL-/blob/main/Danny%20Dinner%20Code).
 
 </br>
 
