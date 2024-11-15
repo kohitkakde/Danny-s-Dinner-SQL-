@@ -39,4 +39,5 @@ Danny has shared with you 3 key datasets for this case study:
 
 
 
-### You can view the SQL code [here](https://github.com/kohitkakde/Dannys-Dinner-SQL-/blob/main/Danny%20Dinner%20Code.sql).
+### You can view the SQL code [here](https://github.com/kohitkakde/Dannys-Dinner-SQL).
+
