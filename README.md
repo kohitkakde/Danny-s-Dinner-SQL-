@@ -39,5 +39,16 @@ Danny has shared with you 3 key datasets for this case study:
 
 
 
+
+
+## Recommendation
+
+1. Ramen is the most purchased item, so we can consider shifting some focus to other items as well.
+2. To encourage the purchase of other items, we can introduce coupons or discounts for them.
+3. Customers often ordered sushi before becoming members of the restaurant, but once they became members,
+   their preference shifted to ramen. We should consider improving our sushi offerings or creating promotions to encourage members to purchase sushi along with ramen.
+
+
+
 ### You can view the SQL code [here](https://github.com/kohitkakde/Dannys-Dinner-SQL-/blob/main/Danny%20Dinner%20Code).
 
